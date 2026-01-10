@@ -1,42 +1,40 @@
 # Money 
 
-While in the core aquarium view, the money is divided into four denominations.
-
-Copper Coins, Silver Coins, Gold Coins, Platinum Coins
-
-100 coins of each tier will upgrade into the next tier.
-
-Example:
-100 Copper -> 1 Silver
-100 Gold Coins -> 1 Platinum Coin
-
-**The inventory will display the largest denomination by default**
+While in the core aquarium view, the money is a single dollar amount.
+This keeps things simple and easier to understand. 
+Some drawbacks include:
+- Scaling could be difficult
+- Large numbers may confuse the player
 
 
-## Ways to obtain coins
+## Ways to obtain $$$
 
 Get rich in the following ways:
 
-1. Raising coin-producing fish and making sure they're well-fed
+1. Raising money-producing fish and making sure they're well-fed
 2. Killing monsters/bosses
 3. Collecting items from other friendlies
 
 ## Use it or lose it!
 
-Coins do not follow the player past the core aquarium.
-Once a customer has their tank managed, the player will lose all those coins and be rewarded in XP or other rewards based on coin amount
+Money do not follow the player past the core aquarium.
+Once a customer has their tank managed, the player will lose all those coins and be rewarded in XP or other rewards based on money amount
 
-## Capacity for each coin slot
+## Money Capacity Limit
 
-4 digits for each coin slot, 9999 being the highest number in each slot
+int, up to 6 digits
 
-## Coins don't float!
+## Money don't float!
 
-When coins are spawned, they fall slowly to the ground. Once they touch the ground, they will start to slowly disappear, indicated by lower opacity over time. 
+When money is spawned, they fall slowly to the ground. Once they touch the ground, they will start to slowly disappear, indicated by lower opacity over time. 
 
-## Coin Production HALTED
+## Money Production HALTED
 
-Coins do not get produced in the following situation:
+Money do not get produced in the following situation:
 
 - Hungry Fish
 - Boss Battle
+
+## Items to Money Conversion
+
+1 Copper Coin = 1 Money

@@ -20,6 +20,14 @@ The visible components of the player screen during Core Aquarium Activities. Aim
 ## Middle and Bottom Screen
 
 Air, Water, Fish should use the rest of screen space.
+The bottom of the tank contains a coin collection slot, placed on the bottom left. All coins go here. If a coin sinks here, it shall be auto deposited.
 
 As the boss fight starts, the HP Bar of the boss shall display flush on the bottom portion of the screen along with the name.
 As minimally small as possible to not take up tank space. 
+
+
+## Escape Menu
+
+Also Pauses the game, but displays other options such as:
+
+Resume, Options, Save, Forfeit Request, Exit Game

@@ -19,3 +19,7 @@ Slowly swims in random directions.
 ## Attacks
 
 Touch damage, no special attacks
+
+## Drops on Death
+
+1 large bill ($20)

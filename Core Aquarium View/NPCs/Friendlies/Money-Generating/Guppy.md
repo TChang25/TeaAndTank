@@ -1,11 +1,11 @@
 # Guppy
 
-5 HP (+2 for each stage)
+5 HP (+2 for each stage) 
 0 Mana
 
 ## In-game Description
 
-A common fish. Creates copper coins. 
+A common fish. Creates copper coins (1$/Each).
 
 ## Specialties
 
