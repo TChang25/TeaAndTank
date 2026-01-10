@@ -2,7 +2,7 @@
 
 In the Core Aquarium View, the player is simply a cursor.
 
-# Controls
+## Controls
 
 Escape = Open menu
 
@@ -13,3 +13,9 @@ Left-Clicking on Enemy = Damages Enemy depending on weapon
 Left-Clicking on Coins = Collects coins
 
 Right-Clicking = Nothing for now
+
+## Player initial stats (w/o modifiers)
+
+Damage: 1 HP/Click
+Food Qty: 1
+

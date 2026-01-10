@@ -9,7 +9,7 @@ A common fish. Creates copper coins.
 
 ## Specialties
 
-- Drops copper coins every 10 seconds. If fish is hungry, the coin timer is only paused, not reset.
+- Drops copper coins every 10 seconds.
 
 ## Movement Tendencies
 
@@ -18,7 +18,7 @@ A common fish. Creates copper coins.
 
 ## Growth Conditions
 
-- Fish must be fed for 30 seconds. If fish is hungry, the timer for growing is only paused, not reset.
+- Fish must be fed for 30 seconds. 
 
 ## Growth Stages
 

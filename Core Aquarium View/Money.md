@@ -29,3 +29,14 @@ Once a customer has their tank managed, the player will lose all those coins and
 ## Capacity for each coin slot
 
 4 digits for each coin slot, 9999 being the highest number in each slot
+
+## Coins don't float!
+
+When coins are spawned, they fall slowly to the ground. Once they touch the ground, they will start to slowly disappear, indicated by lower opacity over time. 
+
+## Coin Production HALTED
+
+Coins do not get produced in the following situation:
+
+- Hungry Fish
+- Boss Battle

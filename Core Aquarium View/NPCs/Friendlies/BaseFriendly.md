@@ -11,3 +11,7 @@ The BaseFriendly shall include the following features:
 - Ability Timer
 - Hunger Timer
 - Coin Timer
+
+Note: 
+If fish is hungry, the coin timer is only paused, not reset.
+If fish is hungry, the timer for growing is only paused, not reset.
