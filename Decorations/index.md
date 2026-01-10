@@ -2,4 +2,4 @@
 
 ## Types of Decorations
 
-## 
+#
