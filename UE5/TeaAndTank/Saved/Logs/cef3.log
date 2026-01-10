@@ -1,0 +1,9 @@
+[35708:31468:0109/203430.597:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35708:31468:0109/203430.673:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35708:31468:0109/203449.075:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[35708:31468:0109/203449.678:ERROR:device_event_log_impl.cc(196)] [20:34:49.382] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[12084:40020:0109/203452.409:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12084:40020:0109/203452.593:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12084:40020:0109/203505.534:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12084:40020:0109/203516.634:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35708:31468:0109/215437.681:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
