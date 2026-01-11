@@ -26,7 +26,7 @@ int, up to 6 digits
 
 ## Money don't float!
 
-When money is spawned, they fall slowly to the ground. Once they touch the ground, they will start to slowly disappear, indicated by lower opacity over time. 
+When money items are spawned, they fall slowly to the ground. Once they touch the ground, they will start to slowly disappear, indicated by lower opacity over time. 
 
 ## Money Production HALTED
 

@@ -2,7 +2,7 @@
 
 The visible components of the player screen during Core Aquarium Activities. Aim have large screen space for fish/tank.
 
-## Top Bar
+## Top Bar (Known as the BUY BAR)
 
 1 Money Generating Fish Slot
 1 Fish Food Quantity Upgrade Slot (Max 10 Upgrades) (Changes price depending on Fish Food)
